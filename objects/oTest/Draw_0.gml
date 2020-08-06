@@ -1,0 +1,8 @@
+draw_set_font(ft_8bito)
+//pack = draw_text_undertale("* Yo kiddo<delay?1>a\n  What's up?",x,y,pack)
+//show_message(undertale_text_length("* Yo kiddo<delay?1>a\n  What's up?"))
+//draw_text(0,0,pack)
+//if keyboard_check(vk_space) 
+//	repeat(5)
+		//pack = draw_text_undertale("+(Froggit seems to not understand \nwhat you say.(delay10) but was scared \nanyways.)",x,y,pack)
+ATEX_draw(0,0,"hello 1<txt?sadsad>asd",-1,fa_left)

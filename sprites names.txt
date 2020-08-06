@@ -1,0 +1,3 @@
+spr_exc_0.png
+spr_dvdcase_water_0
+spr_cooler_water_0

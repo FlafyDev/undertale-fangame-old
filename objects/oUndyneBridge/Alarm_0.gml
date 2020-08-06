@@ -1,0 +1,1 @@
+goto_room_tp(room+1)

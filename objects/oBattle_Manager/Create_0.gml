@@ -1,0 +1,1 @@
+battle = instance_create_depth(0,0,depth,ds_map_find_value(global.BattleID_Map,global.BattleID))

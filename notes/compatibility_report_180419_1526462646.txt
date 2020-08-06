@@ -1,0 +1,9 @@
+Converting GML script: ${project_dir}\scripts\__\__.gml
+Converted description /// @description __()
+
+Converting GML script: ${project_dir}\scripts\__d\__d.gml
+Converted description /// @description __d(container)/// @param container
+
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'

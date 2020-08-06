@@ -1,0 +1,1 @@
+draw_sprite(sUndynesWelcome,0,x,y)

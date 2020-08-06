@@ -1,0 +1,1 @@
+direction=irandom_range(90-30,90+30)

@@ -1,0 +1,1 @@
+Sprite = sprites_y[1]
